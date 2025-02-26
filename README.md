@@ -1,4 +1,4 @@
-# Secret Image Steganography App
+# Steganography App
 ## Overview
 This project is a Streamlit-based web application that allows users to hide secret messages within images using steganography. The app provides two main functionalities:
 
